@@ -13,5 +13,5 @@ python2 infect.py
 # username and password 
 ```
 User : Rangga
-Pass : purnama
+Pass : Rangga
 ```
